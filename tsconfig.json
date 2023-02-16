@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "lib": [
+      "ESNext"
+    ],
+    "esModuleInterop": true,
+    "noEmitHelpers": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "strict": true
+  },
+  "extends": "expo/tsconfig.base",
+}
